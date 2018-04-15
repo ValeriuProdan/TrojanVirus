@@ -1,0 +1,12 @@
+D:\BestemHack\Client\Client\bin\Debug\Chrome.exe.config
+D:\BestemHack\Client\Client\bin\Debug\Chrome.exe
+D:\BestemHack\Client\Client\bin\Debug\Chrome.pdb
+D:\BestemHack\Client\Client\bin\Debug\NetworkCommsDotNet.dll
+D:\BestemHack\Client\Client\obj\Debug\Client.Form1.resources
+D:\BestemHack\Client\Client\obj\Debug\Client.Interfata.resources
+D:\BestemHack\Client\Client\obj\Debug\Client.Properties.Resources.resources
+D:\BestemHack\Client\Client\obj\Debug\Client.csproj.GenerateResource.cache
+D:\BestemHack\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\BestemHack\Client\Client\obj\Debug\Client.csproj.CopyComplete
+D:\BestemHack\Client\Client\obj\Debug\Chrome.exe
+D:\BestemHack\Client\Client\obj\Debug\Chrome.pdb

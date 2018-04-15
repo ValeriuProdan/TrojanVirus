@@ -1,0 +1,6 @@
+D:\BestemHack\KeepAlive\KeepAlive\obj\Debug\KeepAlive.csproj.CoreCompileInputs.cache
+D:\BestemHack\KeepAlive\KeepAlive\bin\Debug\KeepAlive.exe.config
+D:\BestemHack\KeepAlive\KeepAlive\bin\Debug\KeepAlive.exe
+D:\BestemHack\KeepAlive\KeepAlive\bin\Debug\KeepAlive.pdb
+D:\BestemHack\KeepAlive\KeepAlive\obj\Debug\KeepAlive.exe
+D:\BestemHack\KeepAlive\KeepAlive\obj\Debug\KeepAlive.pdb

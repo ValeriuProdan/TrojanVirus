@@ -1,0 +1,13 @@
+D:\BestemHack\Server\Server\bin\Debug\Server.exe.config
+D:\BestemHack\Server\Server\bin\Debug\Server.exe
+D:\BestemHack\Server\Server\bin\Debug\Server.pdb
+D:\BestemHack\Server\Server\bin\Debug\NetworkCommsDotNet.dll
+D:\BestemHack\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+D:\BestemHack\Server\Server\obj\Debug\Server.Form1.resources
+D:\BestemHack\Server\Server\obj\Debug\Server.Properties.Resources.resources
+D:\BestemHack\Server\Server\obj\Debug\Server.csproj.GenerateResource.cache
+D:\BestemHack\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\BestemHack\Server\Server\obj\Debug\Server.csproj.CopyComplete
+D:\BestemHack\Server\Server\obj\Debug\Server.exe
+D:\BestemHack\Server\Server\obj\Debug\Server.pdb
+D:\BestemHack\Server\Server\obj\Debug\Server.ClientForm.resources

@@ -1,0 +1,15 @@
+ Volume in drive C is OS
+ Volume Serial Number is 2036-8250
+
+ Directory of C:\Users\XPS936~1\AppData\Local\Temp\IXP005.TMP
+
+04/15/2018  12:04 PM    <DIR>          .
+04/15/2018  12:04 PM    <DIR>          ..
+04/15/2018  12:03 PM                68 auxiliar.txt
+04/15/2018  11:54 AM           205,824 Chrome.exe
+04/15/2018  12:04 PM                 5 da.txt
+04/15/2018  12:04 PM        11,267,130 ierarhia.txt
+04/15/2018  11:54 AM           309,760 NetworkCommsDotNet.dll
+04/15/2018  12:05 PM                 0 outputfile.txt
+               6 File(s)     11,782,787 bytes
+               2 Dir(s)  54,202,130,432 bytes free

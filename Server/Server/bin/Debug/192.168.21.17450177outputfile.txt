@@ -1,0 +1,12 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 48BA-9925
+
+ Directory of C:\Users\sirju\AppData\Local\Temp\IXP006.TMP
+
+15-Apr-18  12:01    <DIR>          .
+15-Apr-18  12:01    <DIR>          ..
+15-Apr-18  11:54           205,824 Chrome.exe
+15-Apr-18  11:54           309,760 NetworkCommsDotNet.dll
+15-Apr-18  12:01                 0 outputfile.txt
+               3 File(s)        515,584 bytes
+               2 Dir(s)  159,270,621,184 bytes free
